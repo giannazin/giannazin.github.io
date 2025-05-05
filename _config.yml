@@ -21,7 +21,7 @@ title                    : "GLZ CM515 Website"
 title_separator          : "-"
 subtitle                 : "subtitle"
 name                     : "Gianna Zinnen"
-description              : "(she/her/hers)"
+description              : " "
 url                      : "https://giannazin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : giannazin.github.io
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Gianna"
+  avatar           : "/cat.jpg" #path of avatar image, e.g. "/cat.jpg"
+  bio              : "I am grad student at CSU in CM515."
   location         : "Somewhere"
   email            :
   links:

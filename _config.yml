@@ -141,9 +141,9 @@ author:
 # Site Footer
 footer:
   links:
-   label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gianna.zinnen@colostate.edu" # OPTIONAL
+      url: "mailto:gianna.zinnen@colostate.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/giannazin/giannazin.github.io/tree/master" # OPTIONAL

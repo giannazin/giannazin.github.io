@@ -114,9 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "Gianna"
-  avatar           : "/cat.jpg" #path of avatar image, e.g. "/cat.jpg"
+  avatar           : # "/cat.jpg" #path of avatar image, e.g. "/cat.jpg"
   bio              : "I am grad student at CSU in CM515."
-  location         : "Somewhere"
+  location         : "Mountains and Grass"
   email            : "gianna.zinnen@colostate.edu"
   links:
     - label: "Email"

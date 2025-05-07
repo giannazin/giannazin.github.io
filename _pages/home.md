@@ -13,12 +13,12 @@ author_profile: true
 classes: wide
    
 feature_row1:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: images/flors.png # no quotes this time
     alt: "Resources"
-    excerpt: "Enter a relatively short description here"
-    url: "/resources/" # note that these can also be full urls that take people to other sites
+    excerpt: "Woerman Lab"
+    url: "/[resources](https://www.woermanlab.com/)/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_label: "Lab Website"
     
 feature_row2:
   - image_path: path_to_your_image.png # no quotes this time

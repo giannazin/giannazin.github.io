@@ -15,8 +15,8 @@ classes: wide
 feature_row1:
   - image_path: images/flors.png # no quotes this time
     alt: "Resources"
-    excerpt: "Woerman Lab"
-    url: "/[resources](https://www.woermanlab.com/)/" # note that these can also be full urls that take people to other sites
+    excerpt: "1st thing" #had lab before
+    url: #"/[resources](https://www.woermanlab.com/)/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Lab Website"
     

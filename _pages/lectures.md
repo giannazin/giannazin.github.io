@@ -3,7 +3,7 @@ layout: single # I've mostly used the most basic layout, single, and modified it
 permalink: /lectures/ # for example, for the resources page you would put resources
 hidden: true
 header:
-  overlay_image: images/modsall.png
+  overlay_image: images/515.png
 title: "All CM 515 Modules"
 tagline: "and github"   
 url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025"
@@ -15,3 +15,4 @@ sidebar:
   nav: "your_nav_heading" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
 
 ---
+Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 

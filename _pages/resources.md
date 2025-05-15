@@ -14,4 +14,8 @@ classes: wide # formatting
 sidebar:
   nav: "your_nav_heading" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
 
+  - image_path: images/github.png # no quotes this time
+    alt: "CM 515 selected modules"
+    excerpt: "Favorite Modules" #had lab before
+    url: "https://github.com/giannazin/CM515-course-2025/blob/main/README.md"
 ---

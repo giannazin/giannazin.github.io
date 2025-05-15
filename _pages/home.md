@@ -24,7 +24,7 @@ feature_row2:
   - image_path: path_to_your_image.png # no quotes this time
     alt: "Lectures"
     excerpt: "Enter a relatively short description here"
-    url: "/[Lectures](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)/" # note that these can also be full urls that take people to other sites
+    url: "/[Lectures](https://github.com/Colorado-State-University-CMB/CM515-course-2025)/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "All Modules"
     

@@ -3,7 +3,7 @@ layout: single # I've mostly used the most basic layout, single, and modified it
 permalink: /resources/ # for example, for the resources page you would put resources
 hidden: true
 header:
-  overlay_image: /assets/path/to/image.png
+  overlay_image: images/blue.png
 title: "CM 515 Favorite Lectures"
 tagline: "and Short Cuts" 
 url: "https://github.com/giannazin/CM515-course-2025/blob/main/README.md"
@@ -17,4 +17,7 @@ image_path: images/github.png # no quotes this time
 alt: "CM 515 selected modules"
 excerpt: "Favorite Modules" #had lab before
 url: "https://github.com/giannazin/CM515-course-2025/blob/main/README.md"
+
 ---
+
+My highlighted courses and github: [gzinnen github final](https://github.com/giannazin/CM515-course-2025/blob/main/README.md)

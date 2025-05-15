@@ -3,7 +3,7 @@ layout: single # I've mostly used the most basic layout, single, and modified it
 permalink: /lectures/ # for example, for the resources page you would put resources
 hidden: true
 header:
-  overlay_image: /assets/path/to/image.png
+  overlay_image: images/github.png
 title: "CM 515 Favorite Lectures"
 tagline: "and Short Cuts"   
 author_profile: false # you can change this to true if you want this on the side again!

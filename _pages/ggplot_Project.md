@@ -14,4 +14,4 @@ sidebar:
   nav: "your_nav_heading" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
   
 ---
-GGplot Visualization Module [CSU CM515 ggPlot visual](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/05_GGplot_Visualization/2025)! 
+GGplot Visualization Module: [CSU CM515 ggPlot visual](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/05_GGplot_Visualization/2025)

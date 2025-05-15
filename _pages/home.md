@@ -16,14 +16,14 @@ feature_row1:
   - image_path: images/flors.png # no quotes this time
     alt: "CM 515 selected modules"
     excerpt: "Favorite Modules" #had lab before
-    url: "/[CM 515 selected modules](https://github.com/giannazin/CM515-course-2025/blob/main/README.md))/" # note that these can also be full urls that take people to other sites
+    url: "/[CM 515 selected modules](https://github.com/giannazin/CM515-course-2025/blob/main/README.md)/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "CM 515 selected modules"
     
 feature_row2:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: images/modsall.png # no quotes this time
     alt: "Lectures"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Github for CM 515 2025"
     url: "/[Lectures](https://github.com/Colorado-State-University-CMB/CM515-course-2025)/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "All Modules"

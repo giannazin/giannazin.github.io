@@ -3,9 +3,10 @@ layout: single # I've mostly used the most basic layout, single, and modified it
 permalink: /lectures/ # for example, for the resources page you would put resources
 hidden: true
 header:
-  overlay_image: images/github.png
-title: "CM 515 Favorite Lectures"
-tagline: "and Short Cuts"   
+  overlay_image: images/modsall.png
+title: "All CM 515 Modules"
+tagline: "and github"   
+url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025"
 author_profile: false # you can change this to true if you want this on the side again!
 read_time: true # this estimates how long it will take someone to read this page
 share: true # this makes this page shareable

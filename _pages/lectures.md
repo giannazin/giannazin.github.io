@@ -1,6 +1,6 @@
 ---
 layout: single # I've mostly used the most basic layout, single, and modified it from there but feel free to pick a different one and play around!
-permalink: /https://github.com/Colorado-State-University-CMB/CM515-course-2025/ # for example, for the resources page you would put resources
+permalink: /Lectures/ # for example, for the resources page you would put resources
 hidden: true
 header:
   overlay_image: /assets/path/to/image.png

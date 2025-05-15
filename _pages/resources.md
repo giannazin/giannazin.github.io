@@ -4,8 +4,9 @@ permalink: /resources/ # for example, for the resources page you would put resou
 hidden: true
 header:
   overlay_image: /assets/path/to/image.png
-title: "Your title here"
-tagline: "Your subtitle here"   
+title: "CM 515 Favorite Lectures"
+tagline: "and Short Cuts" 
+url: "https://github.com/giannazin/CM515-course-2025/blob/main/README.md"
 author_profile: false # you can change this to true if you want this on the side again!
 read_time: true # this estimates how long it will take someone to read this page
 share: true # this makes this page shareable

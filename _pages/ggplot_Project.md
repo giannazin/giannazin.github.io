@@ -3,7 +3,7 @@ layout: single # I've mostly used the most basic layout, single, and modified it
 permalink: /ggplot_project/ # for example, for the resources page you would put resources
 hidden: true
 header:
-  overlay_image: images/ggplot.png
+  overlay_image: images/graph.png
 title: "ggplot Project"
 tagline: "Future use links"   
 author_profile: false # you can change this to true if you want this on the side again!
